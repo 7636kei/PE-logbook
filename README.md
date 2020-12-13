@@ -3,4 +3,6 @@ This is my personal, Project Euler logbook (written in python). If you're also i
 
 In case the numbers in the filename look weird, it's because it's in hex. You'll also notice the earliest file is #9 rather than #1 because ... well, I only started bookkeeping just before I solved #9 🤐
 
+Also, this is a bookeeping of what I _first_ used to arrive to the solution. Expect non-optimised records 😹
+
 This is also the first time I'm fooling around with GitHub.
