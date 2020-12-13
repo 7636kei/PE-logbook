@@ -15,7 +15,6 @@ def tripletproduct(targ_sum):
 	if ret_a == 0: #nothing found
 		print("No triplet found :(")
 	else: #we found something
-		print("Triplet found:", ret_a, ret_b, ret_c)
 		print("Product=", ret_a * ret_b * ret_c)
 
 tripletproduct(1000)
