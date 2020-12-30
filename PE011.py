@@ -1,7 +1,7 @@
 import math
 
 def lettercount(num_ceil):
-	#count_U20/count_tens have their first 1/2 (resp) indices padded with zeroes!
+	#count_U20/count_tens have their first 1/2 (resp) indices padded with zeroes! (The number 10 is handled by U20, not by tens.)
 	#counting capacity: 19999, I guess?
 	count_U20 = [0, 3, 3, 5, 4, 4, 3, 5, 5, 4, 3, 6, 6, 8, 8, 7, 7, 9, 8, 8]
 	count_tens = [0, 0, 6, 6, 5, 5, 5, 7, 6, 6]
